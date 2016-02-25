@@ -1,0 +1,3 @@
+export const ON_USER_LOGIN_START = 'ON_USER_LOGIN_START';
+export const ON_USER_LOGIN_END = 'ON_USER_LOGIN_END';
+

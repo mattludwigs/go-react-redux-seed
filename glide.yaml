@@ -1,0 +1,4 @@
+package: github.com/mattludwigs/monarch
+import:
+- package: github.com/gin-gonic/gin
+- package: gopkg.in/mgo.v2
