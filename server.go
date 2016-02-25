@@ -2,9 +2,9 @@ package main
 
 import (
 
-  "github.com/mattludwigs/monarch-money/routes"
-  "github.com/mattludwigs/monarch-money/data"
-  "github.com/mattludwigs/monarch-money/models"
+  "github.com/mattludwigs/go-react-redux-seed/routes"
+  "github.com/mattludwigs/go-react-redux-seed/data"
+  "github.com/mattludwigs/go-react-redux-seed/models"
 
   "github.com/gin-gonic/gin"
 )

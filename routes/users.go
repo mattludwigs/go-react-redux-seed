@@ -1,7 +1,7 @@
 package routes
 
 import (
-  "github.com/mattludwigs/monarch/data"
+  "github.com/mattludwigs/go-react-redux-seed/data"
 
   "github.com/gin-gonic/gin"
 )

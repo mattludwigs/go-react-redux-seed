@@ -1,6 +1,6 @@
 package data
 
-import "github.com/mattludwigs/monarch/models"
+import "github.com/mattludwigs/go-react-redux-seed/models"
 
 func GetMockUsers() []*model.User {
   return []*model.User{
