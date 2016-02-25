@@ -36,3 +36,7 @@ npm run dev:server
 ```
 npm run build:client
 ```
+
+## Notes
+
+Be sure to change the import statments from mattludwigs/go-react-redux-seed to your desired import string

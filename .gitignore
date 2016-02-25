@@ -2,3 +2,4 @@ node_modules
 npm-debug.log
 vender
 client/*.js
+.DS_Store
